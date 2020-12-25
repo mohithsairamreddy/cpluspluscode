@@ -1,0 +1,1 @@
+{"name":"Local: largestword","url":"m:\\c++\\c++ coding\\Arrays\\char arrays\\largestword.cpp","tests":[{"id":1607191105741,"input":"10\ndo or die","output":"5\ndying"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"m:\\c++\\c++ coding\\Arrays\\char arrays\\largestword.cpp","group":"local","local":true}
